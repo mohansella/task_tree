@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.task_tree">
+    package="me.mohansella.task_tree">
    <application
         android:label="task_tree"
         android:name="${applicationName}"

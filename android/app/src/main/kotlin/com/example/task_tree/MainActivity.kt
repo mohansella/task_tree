@@ -1,4 +1,4 @@
-package com.example.task_tree
+package me.mohansella.task_tree
 
 import io.flutter.embedding.android.FlutterActivity
 
